@@ -66,7 +66,7 @@ Want to contribute? Create a directory with your username and add your prompts! 
 
 ### Notable Prompts
 
-- [OSOP Session Logging](memories/osop-session-logging/) — Record AI coding sessions as structured `.osop` + `.osoplog.yaml` workflow logs using the [OSOP protocol](https://github.com/Archie0125/osop-spec). Produces portable, auditable execution records that can be visualized at [osop-editor.vercel.app](https://osop-editor.vercel.app).
+- [OSOP Session Logging](memories/Archie0125/) — Record AI coding sessions as structured `.osop` + `.osoplog.yaml` workflow logs using the [OSOP protocol](https://github.com/Archie0125/osop-spec). Produces portable, auditable execution records that can be visualized at [osop-editor.vercel.app](https://osop-editor.vercel.app).
 
 ## Tips and Tricks
 
