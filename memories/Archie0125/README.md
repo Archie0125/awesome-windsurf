@@ -23,6 +23,4 @@ This gives you auditable, visualizable records of AI-assisted work that you can 
 
 ## Resources
 
-- [OSOP Spec](https://github.com/Archie0125/osop-spec) — protocol definition and JSON Schema
-- [Visual Editor](https://osop-editor.vercel.app) — visualize and analyze workflow logs
-- [OSOP Website](https://osop-website.vercel.app) — documentation, examples, and use cases
+See the Resources section in [`global_rules.md`](global_rules.md#resources) for links to the OSOP spec, visual editor, and documentation.
